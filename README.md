@@ -1,5 +1,5 @@
 <p align="center">
-<img src="file:src/main/resources/bsu/comp152/Images/WeatherWalrus.png" alt="drawing" width="200"/>
+![image](.\\src\\main\\resources\\bsu\\comp152\\Images\\WeatherWalrus.png)
 </p>
 
 **Author:** William Cobb  

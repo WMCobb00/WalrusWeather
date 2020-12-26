@@ -27,7 +27,7 @@ public class Main extends Application {
         Scene windowContents = new Scene(root, 600, 400); // Sets scene
         primaryStage.setScene(windowContents); // Sets the scene in the window
         primaryStage.setTitle("Wally's Weather Report"); // Sets window title
-        primaryStage.getIcons().add(new Image("file:C:\\Users\\billy\\IdeaProjects\\WalrusWeather\\src\\main\\resources\\bsu\\comp152\\Images\\WeatherWalrus.png")); // Sets app icon
+        primaryStage.getIcons().add(new Image("file:.\\src\\main\\resources\\bsu\\comp152\\Images\\WeatherWalrus.png")); // Sets app icon
         primaryStage.setResizable(false); // Prevents resizing
         primaryStage.show(); // Displays window
     }
