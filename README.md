@@ -1,5 +1,5 @@
 <p align="center">
-![alt text](https://github.com/WMCobb00/WalrusWeather/src/main/resources/bsu/comp152/Images/WeatherWalrus.png?raw=true)
+<img src="./src/main/resources/bsu/comp152/Images/WeatherWalrus.png" width="350" title="Wally">
 </p>
 
 **Author:** William Cobb  
