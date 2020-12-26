@@ -1,9 +1,9 @@
 <p align="center">
-![image](.\\src\\main\\resources\\bsu\\comp152\\Images\\WeatherWalrus.png)
+![title](.\\src\\main\\resources\\bsu\\comp152\\Images\\WeatherWalrus.png)
 </p>
 
 **Author:** William Cobb  
-**Date:** 12/11/19 (Updated and made public to this new Github account on 5/21/20)
+**Date:** 12/11/19 (Updated and made public to this new Github account on 12/26/20)
 
 **Purpose:**  
 My first JavaFX project completed in my CSII course at Bridgewater State University. The goal with this was to create
@@ -17,6 +17,3 @@ as a great introduction to both.
 **Other:**  
 API Used: https://www.metaweather.com/api/  
 Walrus Image used (copyright free): https://pngriver.com/download-walrus-png-free-download-for-designing-projects-41482/
-
-*Have a question, comment, improvement, collaborative idea, or other inquiry?  
-Feel free to contact me @ BillyCobb00@gmail.com and I will try my best to respond as soon as possible!!!*
